@@ -3,7 +3,7 @@
 ## Глава 1: Введение
 Здесь будет введение в тему книги.
 
-## Глава 2: Git-base and argue da magic of conflict
+## Глава 2: da magic of conflict and some git base
 Основные понятия и команды Git.
 
 ## Глава 3: Вход в систему
